@@ -1,0 +1,61 @@
+[
+  {
+    "temperature": "warm",
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "phone": "Unknown",
+    "requirements": "Buy CRM software with a budget of 50,000 rupees",
+    "reason": "He seems interested in the CRM software and provided a budget, but didn't commit to a purchase yet and didn't provide contact information for phone number",
+    "id": 1,
+    "timestamp": "2026-05-13 11:30:36"
+  },
+  {
+    "temperature": "warm",
+    "name": "Unknown",
+    "email": "Unknown",
+    "phone": "Unknown",
+    "requirements": "Need help with business, specific challenges or areas unclear",
+    "reason": "Expressed need for help in business, implied uncertainty about specifics",
+    "id": 2,
+    "timestamp": "2026-05-13 11:38:28"
+  },
+  {
+    "temperature": "hot",
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "requirements": "CRM software, budget 50,000 rupees",
+    "reason": "Budget aur features ke hisab se CRM software chunna chahta hai",
+    "id": 3,
+    "timestamp": "2026-05-13 11:38:43"
+  },
+  {
+    "temperature": "hot/warm/cold",
+    "name": "User",
+    "email": "Unknown",
+    "phone": "Unknown",
+    "requirements": "Specific business area assistance",
+    "reason": "User requested help with business, but didn't specify temperature.",
+    "id": 4,
+    "timestamp": "2026-05-13 11:47:27"
+  },
+  {
+    "temperature": "hot",
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "phone": "Unknown",
+    "requirements": "Looking for CRM software, budget \u20b950,000, needs assistance with specific business area",
+    "reason": "Rahul has shown clear interest in buying CRM software within a budget and has shared his contact information, indicating a high level of engagement",
+    "id": 5,
+    "timestamp": "2026-05-13 11:48:55"
+  },
+  {
+    "temperature": "warm",
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "phone": "Nhi diya",
+    "requirements": "CRM software features and functionalities",
+    "reason": "Chaliye quote kya ja sakti hai",
+    "id": 6,
+    "timestamp": "2026-05-13 11:54:09"
+  }
+]
